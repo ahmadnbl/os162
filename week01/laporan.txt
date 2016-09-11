@@ -1,0 +1,12 @@
+#ahmadnbl
+
+What I Did?
+- Learn about git basic control
+	. clone
+	. pulling
+	. committing
+	. checking status
+	. pushing
+- Create dirs and files, then push it to github
+- Update dirs and files, then pull that changes from github
+- Do some week01 task
